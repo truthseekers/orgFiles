@@ -1,0 +1,86 @@
+* Intro
+
+In this post we're going to look at how to do a local SEO audit for your business. We're also going to talk about strategies to win at the search game in your community.
+
+* Why search engines are important
+It's simple. X% of buying decisions begin on the search engines... and there's a lot of people searching online for your services.
+Beat your competitors in search and you have a huge advantage.
+
+"Restaurant Near Me"
+
+Injury attorney Seattle wa
+
+Hope your convinced. Let's begin.
+
+* 1. Google My Business
+
+Google My Business (GMB) is typically the first thing a person sees when doing a search related to local businesses. Here's what it looks like:
+
+Photographer in Oklahoma City
+
+Image of roofing company in Seattle WA
+
+Do a search for your own business and see what comes up.
+
+
+GMB is important because around half of people searching for a local business will click on one of the businesses that show up in the three GMB results. The other half is split between the other 10.
+
+
+** Auditing your Google My Business
+
+Now we'll learn how to see where you stand and how to make improvements.
+
+Tools Needed:
+
+https://www.brightlocal.com/local-search-results-checker/
+helps you get an honest look. Google remembers your searches and probably knows your location, so you're going to show up higher on your own computer than you would show up on your customers.
+
+
+Optional but recommended: Ahrefs
+
+
+Step 1. Brainstorm 5-10 searches a potential customer would type in when looking for your services
+
+- Plumbers in Seattle
+- Plumber near me
+- Plumbing company King County
+- Sink repair near me
+- you get the idea...
+
+
+Step 2. Put these search terms in the Brightlocal search results checker linked above and see how you do! If you're not there don't worry! We're about to fix that.
+
+Note: Try out several different locations. Most areas are just a bunch of small cities smooshed together. Test out neighboring towns and see if your results are different. The farther away you get from your city the harder it gets to rank.
+
+Step 3. Spy on your competitors!
+
+See how they're doing. If their website sucks, or they don't have a call-now button or directions or a website, or they have only a couple reviews or bad reviews, then you're in luck. It might be a quick journey to the top.
+
+** Finding Keywords
+
+Find the most searched keywords with Ahrefs.
+
+You should be able to get a good sense of where you stand long before the $7 7-day Ahrefs trial expires.
+
+We're going to use Ahrefs to find the most commonly searched keywords for your business, your top competitors and their estimated monthly traffic, your most popular pages, and more.
+
+
+Create an Ahrefs account and log in.
+
+Click "Keywords Explorer"
+
+Type in a keyword you think people will search and hit enter/search.
+
+
+
+
+
+
+
+
+
+* 2. Local search results.
+
+* 3. Directory Listings (Yelp, Angies List, etc...)
+
+* 4. Optional: Google Local Services

@@ -1,0 +1,127 @@
+
+
+* blah
+https://frontendmasters.com/learn/javascript/?utm_source=css-tricks&utm_medium=blog&utm_campaign=csstricks-jslearningpath
+^^^ JS Course?
+
+https://github.com/andreafrancia/trash-cli TRASH CAN
+
+https://www.reddit.com/r/unixporn/comments/6ftlhf/ranger_file_manager_deleteundo_delete/
+
+Step 1. Install ranger.
+
+(I used package manager. Manual instructions are on their github page): https://github.com/ranger/ranger
+
+
+
+Step 2. Get your config files: Found this over in https://wiki.archlinux.org/index.php/Ranger
+
+$ ranger --copy-config=all
+
+
+Note: images might not preview by default. Show you how to do that at the end of the video.
+
+We'll do some keybindings first.
+
+
+
+** Key bindings:
+
+moving: hjkl
+
+Shift + j or k = up/down half page
+
+Ctrl+b = up a page
+Ctrl+f = down page
+
+ctrl-n OR gn = new tab 
+
+gc - close tab
+
+Tab -> next tab
+
+Shift+Tab OR gT => previous tab
+
+r -> open file in chosen program?  ** look into this one on configuring
+
+
+gh -> go to home dir
+
+gm -> go /media
+
+f -> Find... hit "f" then type what you're looking for in that dir.
+
+space -> mark file/dir
+
+v -> mark all.
+
+uv -> unmark
+
+:delete -> delete selected files/dirs (y required)
+
+yy -> copy
+ya -> add to copy  (probably easy to change that)
+yr -> remove files from current copy
+
+dd -> cut
+da -> add to current cut
+dr -> remove from cut
+
+pp -> paste
+
+cw -> rename  a file/dir
+
+q -> quit back into shell into the directory you launched ranger from.
+
+s -> launch shell ... inside ranger.
+
+S -> exit back to shell but in the PWD  .. if that doesn't work check out this S.O question.
+
+
+-> https://superuser.com/questions/1043806/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current
+
+
+bulk rename
+
+
+
+
+
+
+
+
+
+*** type 1? ** to get keybindings list.
+***Keybindings also shown around line 305 in rc.conf.
+
+set "show_hidden" to true
+
+
+
+
+https://github.com/ranger/ranger/wiki/Image-Previews
+
+https://github.com/ranger/ranger/wiki/Official-user-guide  Official guide?
+
+ Use a compatible terminal for image previews.
+
+Show list of terminals they have working without a lot of issues.
+(in .config/ranger/rc.conf)
+
+recommend terminology for least amount of screwing around.
+(tried Xterm. Didn't have the patience to spend 40 minutes learning how to change the font size
+ because my Xresources wasn't working or the reading cryptic documentation)
+
+
+
+Change color Scheme?
+
+Commonly used commands: 
+- 
+
+Defining commands
+
+https://growworkinghard.altervista.org/useful-commands-keybindings-ranger/
+Commands list
+
+is commands_full.py supposed to be helpful?

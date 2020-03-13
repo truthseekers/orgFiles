@@ -1,0 +1,106 @@
+Intro to Prisma / Graphql: https://www.prisma.io/docs/tutorials/setup-prisma/demo-server-ouzia3ahqu
+
+https://www.prisma.io/docs/tutorials/build-graphql-servers/development/build-a-graphql-server-with-prisma-ohdaiyoo6c
+
+visiting the service via prisma's login thing.
+
+How to see the actual Postgres/mysql database hosting the info.
+
+insert multiple items with named mutations?:
+
+mutation {
+  addSusie: createUser (data:
+  {
+    name: "Susie"
+  }) {
+    name
+  }
+  addArnold: createUser (data:
+  {
+    name: "Arnold"
+  }) {
+    name
+  }
+  
+  
+}
+
+List of "scalar types": (like a list of integers or string)
+
+type Alarm {
+  id: ID! @id
+  ringTime: String!
+  owner: User!
+  days: [Int!]! @scalarList(strategy: RELATION) 
+}
+
+https://www.prisma.io/docs/datamodel-and-migrations/datamodel-MYSQL-knul/#@scalarlist
+
+
+How to query/mutate records that have other types like a post with a user.
+
+mutation {
+  createAlarm (data:
+  {
+    ringTime: "11:30"
+    days: {
+      set: [0, 1, 4]
+    }
+    owner: {
+      connect: {
+       id: "ck55rxorb4dao0b09xuhp1oc6" 
+      }
+    }
+  }) {
+    ringTime
+  }
+  
+}
+
+--- Update user ---
+
+mutation {
+  updateUser(data: {
+    email: "john@john.com"
+  }
+  where: {
+    id: "ck55rw2jmmcwj0b00cvr5ogdx"
+  }) {
+    id
+    name
+    email
+  }
+}
+
+mutation {
+  updateAlarm(
+    data: {
+      ringTime: "1:27"
+      days: {
+        set: [0,1,2,3,4]
+      }
+    },
+    where: {
+      id:"ck55uy74i4kf90b099ja0ig50"
+    }
+  ) {
+    id
+    ringTime
+    days
+  }
+}
+
+mutation {
+  updateAlarm(ringTime: "11:12", days: [0,1,2,3,4], alarmID: "ck55uy74i4kf90b099ja0ig50") {
+    id
+    ringTime
+    days
+  }
+}
+
+
+--- later - Running SQL queries
+
+
+
+

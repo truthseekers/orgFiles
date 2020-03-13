@@ -1,0 +1,75 @@
+* Title(s) (WordPress & Web Development Agency for small to Mid-sized businesses)
+** Now
+*** WordPress Development Agency for small to Mid-sized businesses
+** Future
+   - Software Development Agency
+   - Something to do with tech, e-commerce, jobs, tutorials, or whatever. i don't know yet! arauugh!
+   - Go in this direction. Productize dammit!
+   - Destroy StackOverflow!
+
+
+* Core Topic: Software/Tech
+* Secondary Topic? Marketing (maybe split off into second site and just link back and forth a lot)
+** dont do that until your making money though. Just keep it all together and see what works.
+
+* Goals / Monetization
+** Affiliates
+*** Wix
+*** BlueHost
+*** Optin Monster
+*** Shopify
+*** Woocommerce?
+*** WPEngine
+*** Redbubble
+*** Amazon
+*** Thrive Architect
+** Agency Clients
+** Small Business, Marketing & Design clients
+** Elementor Template Products that I create? & other products
+*** WP Plugins, Elementor Templates, Beaver templates, etc..
+** Tech shop 
+*** lock picking
+*** shirts
+*** usbs, nvmes, etc...
+
+
+* What We Do
+** Teach
+*** Tech tutorials
+*** Marketing & SEO
+*** Web Stuff?
+** Provide Digital Solutions
+*** Marketing & SEO Consulting
+*** WordPress Development
+*** Software Consulting
+
+* Teach?
+** Marketing<br> SEO<br> Non-techie websites (in one box)
+** Linux
+** Docker,
+** Etc... enjoy.
+
+
+* Order of design?
+* Header:
+** We're into Software and Stuff...
+** Check out Our Tutorials
+** Check out Our Services
+
+* Menu:
+** Shop # dont need this now. 
+** Blog
+** Contact (maybe show up when you scroll?)
+** Learn
+** Services / Portfolio
+** Our Work
+** Start Here. Stop stressing about it being perfect. Just get to it and change it later.
+   
+* want:
+** Pretty not-shit looking
+** Focus on affiliates, but have it look nice enough to get a client
+
+
+#00DAFC   Varela Round
+
+Weight: 300

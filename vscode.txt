@@ -1,0 +1,7 @@
+What to look for in a text editor:
+
+
+
+What I dislike about VSCode:
+
+ CTRL + K + CTRL + O sucks to open folders.

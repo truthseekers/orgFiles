@@ -1,0 +1,123 @@
+#+STARTUP: showall
+
+https://bellevuechamber.org/event/bellevue-recess-jan2020/
+
+https://www.youtube.com/watch?v=6rqY1MTm7J8&feature=youtu.be  ** bluehost & elementor vid
+
+startupinacar-biz...
+
+
+* How to Use Org mode
+  https://orgmode.org/worg/org-tutorials/org4beginners.html 
+  Tab = fold and unfold current heading
+  Shift-tab = fold & unfold entire document
+  M(alt)-up/down to move a headline up or down
+  M(alt)-left/right = promote/demote headings
+  M(alt)-ENTER/Return = create a new headline
+
+* How to Build a Website
+** Skip to (link where it starts) to hurry up and get started
+If you just want to get started, ---Click here to build your website now--
+
+** Who this post is for
+There are many ways to build a website. This guide will walk us through building a simple "content based"
+website for small businesses & bloggers using the WordPress platform. This post is for you If...
+
+  - you want a website or blog, this guide is for you.
+  - you have NO TECHNICAL SKILLS this guide is for you.
+  - you DO know how to code, this guide is probably for you.
+  - you're on a budget, this guide is especially for you.
+  - you want a website that "does stuff" this guide MIGHT be for you. 
+  - you want to market & grow your business online this guide is for you.
+  - you want to start an E-commerce website, this guide is Partially for you. (See our E-commerce content)
+
+
+  - If you have a monthly budget of over $2,500, go hire a marketing & Design agency to build your website. This guide is NOT for you.
+  - If you're building a mobile app, this guide is not for you. (Unless you need a website to help market your app!)
+
+
+** Why WordPress?
+
+For 99% of people, the BEST way to build a website is using the WordPress platform. With their "Drag and Drop" page builders
+anybody can build a website even with zero tech skills.
+
+Wix, SquareSpace, and Godaddy can work, but they lack the ability to customize and add features because the code is "closed-source" or OFF-limits.
+You only get features that they build.
+
+WordPress is "open-source" meaning You're free to bend WordPress to your will. You can hire developers & designers to create anything.
+There are thousands of "plugins" that enhance your site, like MLS extensions, job boards, E-commerce, surveys, and much more.
+
+WordPress is simply the best way to build your website regardless of your tech skills.
+Take a look at some of the customizable templates that are already done for you: 
+
+Let's get started.
+
+** Part 1. Building a Website: What you Need
+
+You'll need the following things to build your website:
+  - Domain name & web hosting
+  - A powerful web page builder
+  - A little bit of time and creativity
+
+  - Optional: Password Manager (I use 1password) You start accumulating logins and password managers make life on the web easier. 
+
+*** Step 1. Purchase your Domain Name & Web Hosting (link to if you have to hook up a domain and hosting from different places)
+
+Your "domain name" is your unique website name (www.yourbusiness.com). Note: Available .com domains are hard to find these days. .co, .io, .biz, .xyz are all fine.
+It's a matter of personal preference.
+
+If you already have a name for your website from another company, ask your hosting provider for help via their chat support. **Or read this post**
+
+The "web hosting" is the computer that your website lives in. Just like people live in houses, websites live in funny-looking computers called servers.
+
+Images & details for purchasing web hosting.
+
+*Disclosure* If you purchase a product via my links, I get a commission at no extra charge to you, but don't worry. I've used and tested these products myself, and they work!
+
+*Video on taking a look around in Bluehost*
+
+
+*** Step 2. Install WordPress
+
+The next step to building your website is to install WordPress, which is easy.
+
+*Video & images for steps*
+
+*** Step 3. Select Your Free Theme (Astra or OceanWP) (note. you want a theme that gets out of your way.)
+
+Your entire website is built of a single theme (which you can change anytime) and many plugins. A theme is generally the design and layout
+(not anymore thanks to page builder plugins) while plugins are extensions, like adding an arcade game, calculator, Opt in forms, etc.
+
+You want a theme that works well with page builders, which is where the design is done. We'll use X in this guide because it's free and good. (Y is another good free one)
+
+*How to select a theme*
+
+** Part 2. Designing your Website
+
+to make your site look good you need a drag & drop page builder. At first, I recommend sticking to a pre-designed template and swapping out their images and content with
+your own. The people who made the templates are professional designers. 
+
+*** Step 4. Install a Web Page Builder
+
+There are too many page builders on the market. I personally like and use Elementor, which you can get here. This is the last thing you need to purchase to follow along with the tutorial.
+
+**Steps on purchasing & installing Elementor***
+
+*** Step 4.5 Select a Template
+
+*** Step 5. Add Your Website Content
+*** Step 6. Design Your Website (links to helpful Elementor tutorials)
+** Part 3. Basic SEO & Optimization
+*** Step 7. Create a Blog Content Plan
+*** Step 8. Setup Google Analytics
+*** Step 9. Install important plugins (Optin monster, etc.)
+* Links & other related posts
+** Getting started with Shopify
+** how to connect your domain with hosting
+** Wix Review
+** SquareSpace review
+** Elementor Page Builder Review
+** Best hosting Proviers (BlueHost (shared hosting), WPEngine, Digital Ocean, Linode)
+** Thrive Architect? Thrive Themes?
+** Web Design tips for NON-Designer beginners
+** Content Writing tips for non-designers & non-writers
